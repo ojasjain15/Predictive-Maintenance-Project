@@ -4,7 +4,7 @@
 
 ### Introduction:
 
-This project has been done in fulfillment to the First Capstone Project requirement of Springboard Data Science Career Track Bootcamp. The work on the project was mentored by [Alex Chao](https://www.linkedin.com/in/alexchao56/). 
+
 
 The project objective is to enhance the maintenance operations and planning of time-based preventive maintenance by applying data science techniques and machine learning algorithms for predicting more accurate maintenance requirements.
 
@@ -57,11 +57,5 @@ By exploring the aircraft engine’s sensor values over time, the machine learni
 
 - #### [Multiclass Classification](https://github.com/Samimust/predictive-maintenance/blob/master/Model%20Selection%20-%20Multi-Class%20Classifiaction.ipynb)
 
-- #### [Final Project Report](https://github.com/Samimust/predictive-maintenance/blob/master/Predictive%20Maintenance%20Project%20Report.pdf)
 
-- #### [Project Summary - Slide Decks](https://github.com/Samimust/predictive-maintenance/blob/master/Predictive%20Maintenance%20Project%20Summary.pdf)
-
-- #### [Project Data Folder](https://github.com/Samimust/predictive-maintenance/tree/master/data)
-
-- #### [Project Figures Folder](https://github.com/Samimust/predictive-maintenance/tree/master/fig)
 
