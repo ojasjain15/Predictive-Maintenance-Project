@@ -41,21 +41,4 @@ By exploring the aircraft engine’s sensor values over time, the machine learni
 - __Multiclass classification__ algorithms were used predict in which cycles window or period will an engine will fail.
 
 
-### Project Files:
-
-- #### [README](https://github.com/Samimust/predictive-maintenance/blob/master/README.md)
-
-- ####  [Project Proposal](https://github.com/Samimust/predictive-maintenance/blob/master/Predictive%20Maintenance%20Project%20Proposal.pdf)
-
-- #### [Data Wrangling](https://github.com/Samimust/predictive-maintenance/blob/master/Data%20Wrangling.ipynb)
-
-- #### [Exploratory Data Analysis](https://github.com/Samimust/predictive-maintenance/blob/master/Exploratory%20Data%20Analysis.ipynb)
-
-- #### [Regression Modeling](https://github.com/Samimust/predictive-maintenance/blob/master/Model%20Selection%20-%20Regression.ipynb)
-
-- #### [Binary Classification](https://github.com/Samimust/predictive-maintenance/blob/master/Model%20Selection%20-%20Binary%20Classifiaction.ipynb)
-
-- #### [Multiclass Classification](https://github.com/Samimust/predictive-maintenance/blob/master/Model%20Selection%20-%20Multi-Class%20Classifiaction.ipynb)
-
-
 
